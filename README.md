@@ -5,3 +5,6 @@ discription for user:
 import numpy as np
 a=np.array([1,2,3])
     ```
+```python
+print("hi")
+    ```
